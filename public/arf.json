@@ -5526,6 +5526,21 @@
         "url": "https://etherscan.io/"
       }]
     },
+	{
+      "name": "Solana",
+      "type": "folder",
+      "children": [
+            {
+        "name": "solana.com/",
+        "type": "url",
+        "url": "https://solana.com/"
+      },
+      {
+        "name": "solscan.io",
+        "type": "url",
+        "url": "https://solscan.io/"
+      }]
+    },      
     {
       "name": "Monero",
       "type": "folder",
@@ -5547,6 +5562,7 @@
       }]
     }]
   },
+	
   {
     "name": "Classifieds",
     "type": "folder",
